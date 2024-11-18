@@ -5,7 +5,7 @@ WICHTIG:
 Der Autor dieses Generators ist in keiner Weise mit Nosolorol assoziiert und erhebt keinerlei Anspruch auf das Hitos-System bzw. die darin enthaltenen Namen. Bezeichnungen oder die einzelnen Regeln davon. Sämtliche Rechte am System gehören dem System-Autor, dem spanischen Verlag Norosorol Ediciones (Nosolorol S.L).
 Lediglich der Code für den Generator und die Software selbst sind das Werk des Programmschöpfers.
 
-Die Software verwendet die Module Colorama und Faker. Je nach System werdem diese notwendig sein, um die Python-Dateien auszuführen.
+Die Software verwendet die Module Colorama und Faker. Je nach System werdem diese notwendig sein, um das Programm über Python zu starten.
 
 ACHTUNG:
 
